@@ -1,12 +1,8 @@
-## 🧠 Prompts
+# Prompts Utilizados no ChatGPT:
 
 
-ChatGPT：
-
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Você é um roteirista de podcast e vai criar um podcast de cibersegurança, focado em histórias sobre hacking, gostaria de uma ajuda para criar 15 sugestões
-de nomes criativos para um podcast de hacking feito por hackers, e que tenha algum trocadilho sobre hacking no nome
+## Nome do podcast:
+Você é um roteirista de podcast e vai criar um podcast de cibersegurança, focado em histórias sobre hacking, gostaria de uma ajuda para criar 15 sugestões de nomes criativos para um podcast de hacking feito por hackers, e que tenha algum trocadilho sobre hacking no nome
 
 O podcast vai falar sobre dicas e novidades sobre o mundo do hacking e o que está acontecendo no mercado
 
@@ -20,8 +16,11 @@ O podcast vai falar sobre dicas e novidades sobre o mundo do hacking e o que est
 
 - Não quero que o título contenha palavras em inglês
 - Não quero que utilize nenhuma das palavras nessa lista: Invasão, roubo
-- Não utilize a palavra Hacking no nome, nem qualquer variação dela                                                        |
-| conteúdo | Você é um roteirista de podcast, sendo assim você irá criar um  roteiro de um podcast de cibersegurnça, focado em Hacking cujo o nome é "Código Zero - Explorando Brechas Digitais" e tem foco em curiosidades sobre o submundo do Hacking,  com o público alvo de iniciantes em cibersegurança
+- Não utilize a palavra Hacking no nome, nem qualquer variação dela
+
+
+## Episódio do Podcast:
+Você é um roteirista de podcast, sendo assim você irá criar um  roteiro de um podcast de cibersegurnça, focado em Hacking cujo o nome é "Código Zero - Explorando Brechas Digitais" e tem foco em curiosidades sobre o submundo do Hacking,  com o público alvo de iniciantes em cibersegurança
 
 o formato do roteiro deve ser
 [INTRODUÇÃO]
@@ -42,5 +41,5 @@ o formato do roteiro deve ser
 {REGRAS NEGATIVAS}
 
 - Não use muitos termos técnicos
-- Não ultrapasse 5 minutos de duração |
+- Não ultrapasse 5 minutos de duração
 
