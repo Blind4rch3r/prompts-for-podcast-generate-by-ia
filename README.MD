@@ -57,9 +57,9 @@ Foi utilizado vários prompts para gerar cada etapa do processo criativo.
 
 Foi utilize os prompts encontrados dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para foi seguido o passo a passo abaixo.
 
-- 1. Foi gerado os prompts de roteiro no `ChaGPT`
-- 2. Estes mesmos prompts de roteiro gerados pelo chatgpt foram inseridos na `ElevenLabs`
-- 3. O áudio gerado na `ElevenLabs` foi editado utilizando o `CapCut`
+1. Foi gerado os prompts de roteiro no `ChaGPT`
+2. Estes mesmos prompts de roteiro gerados pelo chatgpt foram inseridos na `ElevenLabs`
+3. O áudio gerado na `ElevenLabs` foi editado utilizando o `CapCut`
 
 ## Autor
 
